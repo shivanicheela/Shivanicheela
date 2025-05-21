@@ -1,16 +1,25 @@
-## Hi there 👋
+ Hi there, I’m Shivani!
 
-<!--
-**shivanicheela/Shivanicheela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Focused coder, active learner, and tech enthusiast.
+🚀 Currently working as a Machine Learning Intern and building skills every day.
+🐍 Passionate about Python, ☕ Java, 🤖 Machine Learning, and solving real-world problems.
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Tech Stack
+
+📝 Languages: Python, Java, SQL
+⚙️ Skills: Machine Learning, Generative AI, Data Analysis
+🛠️ Tools: Jupyter, Google Colab, Git, GitHub
+🔗 Others: SQL Databases, Blockchain Basics, REST APIs
+
+⸻
+
+🔗 Connect with Me
+[.linkedin](https://www.linkedin.com/in/shivani-cheela-b82075228/)  
+[.github](https://github.com/shivanicheela)
+
+
+⸻
+
+Keep learning, keep building. 
